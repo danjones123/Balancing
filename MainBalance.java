@@ -8,9 +8,6 @@ public class MainBalance {
 		balanceRobot.limitSpeed(2);
 		balanceRobot.fallen();
 		
-		//Fallen fallen = new Fallen();
-		//fallen.start();
-		
 	}
 
 }
